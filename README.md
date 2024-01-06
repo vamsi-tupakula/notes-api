@@ -1,5 +1,7 @@
 # AUTH AND NOTES APP API 🎯
 
+# API URL: https://notes-api-hkoz.onrender.com 🔗
+
 # Auth Endpoints
 
 - POST /api/auth/signup -- creates new user account 🚀
